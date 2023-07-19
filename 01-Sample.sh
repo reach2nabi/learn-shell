@@ -1,5 +1,6 @@
 ls
 uname
 uname -a
-ls ltr
+ls -ltr
+
 
