@@ -7,3 +7,9 @@ redirect(){
 
 redirect
 echo status $?
+
+#For loop syntax
+
+for com in a b c; do
+  echo $com
+  done
