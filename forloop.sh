@@ -1,7 +1,7 @@
 redirect(){
   echo hi
   echo hello
-  exit 4
+  return 4
   echo good
 }
 
